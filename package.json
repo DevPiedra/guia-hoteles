@@ -1,0 +1,28 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Proyecto Boostrap4 - Coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevPiedra/guia-hoteles.git"
+  },
+  "keywords": [
+    "Coursera",
+    "DisenoWeb",
+    "Boostrap4"
+  ],
+  "author": "Daniel Piedra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevPiedra/guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/DevPiedra/guia-hoteles#readme",
+  "dependencies": {
+    "node": "^14.8.0"
+  },
+  "devDependencies": {}
+}
